@@ -1,8 +1,7 @@
 streamlit
 langchain
 langchain-core
-langchain-mistralai==1.1.3
-tokenizers==0.19.1
+langchain-mistralai
 python-dotenv
 pypdf
 requests
